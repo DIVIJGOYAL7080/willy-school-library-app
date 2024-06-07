@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "c75-wily-complete",
+    "slug": "snack-f10af65a-8b8c-4daa-b0b1-6c21aef03da7",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "whitehatjr/FirestoryQuery @ Aug 13, 2020"
+  }
+}
